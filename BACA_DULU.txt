@@ -1,0 +1,29 @@
+BUKTI PENDUKUNG LOMBA KAMPUNG PANCASILA 2026 - RW 04 BABATAN INDAH
+
+CARA MEMBUKA (tanpa internet):
+1. Pastikan folder "Kampung Pancasila" sudah diekstrak (bukan dibuka dari dalam file zip).
+2. Klik dua kali file "index.html" (akan terbuka di Chrome/Edge/Firefox).
+3. Pilih pilar, lalu klik nomor indikator untuk melihat bukti pendukungnya.
+
+Tips:
+- Klik gambar untuk memperbesar. Tombol panah kiri/kanan pada keyboard untuk pindah indikator.
+- Tombol "Mode Penjurian" di kanan atas menyembunyikan catatan kerja.
+MENAMBAH BUKTI BARU (tanpa bantuan Claude, tanpa internet):
+1. Taruh foto/PDF (JPG, PNG, WEBP, PDF) ke folder indikator, misalnya
+   "Pilar Lingkungan\04 Pemilahan Sampah Rumah Tangga".
+2. Klik dua kali "PERBARUI WEBSITE.bat". Tunggu sampai muncul tulisan SELESAI.
+3. Buka/refresh index.html. Bukti baru langsung tampil.
+Judul bukti = nama file. Agar ada judul dan keterangan sendiri, buat file .txt dengan
+nama sama (misal "Foto kerja bakti.txt"): baris 1 = judul, baris 2 dst = keterangan.
+Folder untuk semua indikator dibuat otomatis oleh tombol PERBARUI.
+
+- Salin SELURUH folder "Kampung Pancasila" jika dipindahkan ke laptop lain.
+
+PETA DI BERANDA:
+- Taruh gambar peta (PNG/JPG/PDF) di folder "Peta Batin", lalu klik dua kali "PERBARUI WEBSITE.bat".
+- Peta tampil di samping Nilai sementara; klik untuk memperbesar. Judul = nama file.
+
+DATA KK DAN KEPENDUDUKAN:
+- Folder "Data KK" berisi folder RT 01 sampai RT 04 untuk dokumen data KK, dan file "Rekap Penduduk.csv".
+- Isi jumlah KK, laki-laki, dan perempuan tiap RT di file CSV itu, lalu klik dua kali "PERBARUI WEBSITE.bat".
+- Grafik tampil di bagian atas halaman depan. Petunjuk lengkap ada di "Data KK\BACA DULU.txt".

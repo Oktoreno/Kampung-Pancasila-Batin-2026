@@ -1,0 +1,11 @@
+﻿DATA KK RW 04 BABATAN INDAH
+
+1. File "Rekap Penduduk.csv" (buka dengan Excel) berisi per RT: jumlah KK, jumlah jiwa, laki-laki, perempuan, 6 kelompok usia
+   (balita 0-5, SD 6-12, SMP 13-15, SMA 16-18, produktif 19-55, lansia 56+), dan pekerjaan.
+   Saat ini sudah terisi dari data RT 01-04 (RT 03: jenis kelamin, usia, dan pekerjaan baru sebagian).
+   Jangan ubah baris judul dan urutan kolom. Simpan tetap sebagai CSV. Kolom yang kosong dianggap belum ada data.
+2. Taruh dokumen data KK (foto/PDF/JPG/PNG) ke folder RT yang sesuai: "RT 01", "RT 02", "RT 03", "RT 04".
+3. Klik dua kali "PERBARUI WEBSITE.bat" di folder utama, tunggu tulisan SELESAI, lalu refresh index.html.
+
+Grafik KK, jumlah penduduk, dan jenis kelamin muncul di bagian atas halaman depan website.
+Dokumen di folder RT tampil di bawah grafik tersebut.

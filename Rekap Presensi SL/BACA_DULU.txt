@@ -1,0 +1,23 @@
+REKAP PRESENSI SEKOLAH LAPANG - CISU 2 OR 2026
+
+CARA MEMBUKA (tanpa internet):
+Klik dua kali "index.html" (Chrome/Edge/Firefox). Klik kartu desa untuk melihat rincian SL 1-6.
+
+CARA MEMPERBARUI DATA SETELAH EXCEL DIKOREKSI:
+1. Koreksi file Excel (.xlsx) yang ada di folder ini, lalu SIMPAN (Ctrl+S).
+   Halaman Rekap membaca sheet "Tab all" (tabel dari judul "Kabupaten" sampai baris "TOTAL").
+   Menu "Raw Data" menampilkan semua sheet mulai "SRP Geneng" sampai sheet paling kanan (Klumutan), kecuali "Tab all";
+   sheet baru yang ditambahkan di sebelah kanan ikut terbaca. Tiap sheet bisa diunduh sebagai CSV,
+   atau unduh seluruh file Excel-nya.
+   Angka TOTAL diambil dari Excel, jadi pastikan rumus totalnya sudah benar.
+2. Klik dua kali "PERBARUI DATA.bat". Tunggu sampai muncul tulisan SELESAI.
+3. Buka / refresh (F5) index.html. Data baru langsung tampil.
+
+Catatan:
+- Boleh menambah/mengurangi baris desa dan kolom SL; judul kolom jangan diubah
+  (Kabupaten, Desa, Kecamatan, Farmers..., Participants who 80%..., Participants who 50%..., SL 1, SL 2, ...).
+- Kolom di kiri "Kabupaten" (mis. tulisan "Tambahan") ditampilkan sebagai label ungu pada desa tsb.
+- SL bernilai 0 / kosong dianggap belum berjalan (tampil "-").
+- Jika file Excel asli Anda ada di tempat lain, buat file "lokasi_excel.txt" di folder ini
+  berisi satu baris alamat lengkap file Excel tsb, mis.  D:\Data\Rekap_Presensi.xlsx
+- Jika dipindah ke laptop lain, salin SELURUH folder ini.
